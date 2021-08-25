@@ -1,0 +1,36 @@
+.Die{
+    font-size: 10em;
+    padding: .25em;
+    color: slateblue;
+    
+}
+/* below code for animation only 
+
+ .shaking{
+    animation-name: wobble;
+    animation-duration: 1s;
+}
+
+@keyframes wobble {
+    from{
+        transform: translated3d(0, 0, 0);
+    }
+    15%{
+        transform: translated3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+    }
+    30%{
+        transform: translated3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+    }
+    45%{
+        transform: translated3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+    }
+    60%{
+        transform: translated3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+    }
+    75%{
+        transform: translated3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+    }
+    to{
+        transform: translated3d(0, 0, 0);
+    }
+} */
